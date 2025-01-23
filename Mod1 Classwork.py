@@ -10,6 +10,13 @@ def even_or_odd(number):
 print(even_or_odd(6))
 print('*' * 50)
 print(even_or_odd(1))
+print('*' * 50)
+
+# Convert a number(num) to a string (str)
+def number_to_string(num):
+    return str(num) # Return a string of the number here!
+print(number_to_string(591734))
+print('*' * 50)
 
 # Vowel Count:
 
